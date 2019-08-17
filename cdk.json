@@ -1,0 +1,3 @@
+{
+  "app": "npx ts-node bin/cf-alb-asg.ts"
+}
